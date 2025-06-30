@@ -1,0 +1,1 @@
+# crear temporizador pomodoro con 25 min de trabajo, 5 min de descanso corto y 15 min de descanso largo
